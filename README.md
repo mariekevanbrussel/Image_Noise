@@ -5,7 +5,7 @@ The functions are contained in 'myPSNR.py' and 'denoise.py'.
 
 The calculations and visualizations of results are contained in 'visualize_calculate.py'.
 
-## Summary
+## Overview
 
 Two different types of image noise are used; Salt and Pepper noise, and Additive Gaussian noise. 
 
